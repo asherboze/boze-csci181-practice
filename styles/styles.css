@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+html {
+  font-size: 16px;
+  box-sizing: border-box;
+  background-color: lightgoldenrodyellow;
+}
+
+#Page-header {
+  background-color: white;
+  border: 10px solid burlywood;
+  color: rgb(80, 2, 2);
+  padding: 15px 30px;
+}
+
+#Page-header nav a {
+  color: brown;
+}
+
+#Page-header nav a:hover {
+  color: darkred;
+}
+
+.body_text {
+  color: darkred;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.body_text a {
+  color: brown;
+}
+
+.body_text a:hover {
+  color: darkred;
+}
+
+.body_text h1 {
+  color: rgb(100, 4, 4);
+}
+
+.body_text h2 {
+  color: darkred;
+}
+
+.body_text h3 {
+  color: rgb(120, 10, 10);
+}
+
+.body_text h4 {
+  color: rgb(140, 20, 20);
+}
+
+.body_text h5 {
+  color: rgb(160, 30, 30);
+}
+
+.body_text small {
+  color: lightcoral;
+}
